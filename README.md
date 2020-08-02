@@ -6,7 +6,7 @@ The company visited our campus Thapar Institute of Engineering and Technology on
 
 The round took place on HackerRank and we had 90 mins to solve the following 3 questions - 
 
-  - Variation of Job scheduling problem - https://www.geeksforgeeks.org/weighted-job-scheduling/ The expected time complexity was O(n log(n)) but I was able to solve it in O(n2) which passed just 8 out of 14 test cases.
+  - Variation of Job scheduling problem - https://www.geeksforgeeks.org/weighted-job-scheduling/ The expected time complexity was O(n log(n)) but I was able to solve it in O(n<sup>2</sup>) which passed just 8 out of 14 test cases.
   - The question is very well explained in this thread - https://leetcode.com/discuss/interview-question/202553/Traveling-is-Fun/ I was able to clear 8 out of 14 test cases.
   - Given a list of connections between nodes, every direct connection between two nodes indicate that they are best friend. The task was to find for every trio of best friends, the minimum sum of extra best friends of all 3 nodes in the trio.
 
