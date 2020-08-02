@@ -1,6 +1,6 @@
 # Interview-Experience-Gameskraft
 
-The company visited our campus Thapar Institute of Engineering and Technology on 29th July, 2020. The Pre-placement talk was conducted on the same day where we were told about the fast growing rate of Gameskraft in the gaming world. Since everything took place during covid-era, the entire process was virtual. The process included 1 online coding round followed by 3 technical interviews.
+The company visited our campus Thapar Institute of Engineering and Technology on 29th July, 2020. The Pre-placement talk was conducted on the same day where we were informed about the fast growing rate of Gameskraft in the gaming world. Since everything took place during covid-era, the entire process was virtual. The process included 1 online coding round followed by 3 technical interviews.
 
 # Online Coding Round - 
 
