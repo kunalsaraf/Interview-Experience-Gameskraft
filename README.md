@@ -33,11 +33,11 @@ He then asked me what my favorite programming language was, to which I replied C
 
 # Technical Interview 3 -
 
-In the 3rd round of my interview, I found my interviewer very amicable and supportive. The first question he asked was "Write the code for checking if the solved Sudoku was a valid one?" He told me that he just want to see how quick I can change my thoughts into code. He further added not to worry about the complexities, all he needed was just a working code. Fortunately, I was able to write down the code within 10 minutes.
+In the 3rd round of my interview, I found my interviewer very amicable and supportive. The first question he asked was "Write the code for checking if the solved Sudoku was a valid one?" He told me that he just wants to see how quick I can convert my thoughts into code. He further added not to worry about the complexities, all he needed was a working code. Fortunately, I was able to write down the code within 10 minutes.
 
 Next he asked what my favorite project was and started questioning me on the same. Since my project was based on CNN, he discussed every bit of it at length and asked about each and every layer of the model.
 
-I had also deployed a website, so I was asked various questions on back-end and about the server. How are multiple requests handled?
+I had also deployed a website, so I was asked various questions on back-end and about the server. Also how are multiple requests handled?
 
 Another DS question which was print all possible additive combinations of a given number. You may refer https://www.geeksforgeeks.org/print-all-combinations-of-points-that-can-compose-a-given-number/ I was able to write the working code in about 10-12 mins.
 
